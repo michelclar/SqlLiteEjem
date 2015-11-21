@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EjemploCRUD</string>
+    <string name="app_name">EjemCRUD</string>
     <string name="action_settings">Settings</string>
     <string name="Crear">Crear</string>
     <string name="Eliminar">Eliminar</string>
